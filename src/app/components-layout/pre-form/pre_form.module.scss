@@ -1,0 +1,47 @@
+.flex {
+  margin: auto !important;
+  display: flex;
+  border-radius: 16px;
+  text-align: center;
+  box-shadow: rgba(57, 57, 57, 0.2) 0px 24px 128px 0px;
+  z-index: unset;
+  overflow: hidden;
+  background: rgb(255, 255, 255);
+  padding: 32px 138.5px 24px;
+  border-radius: 16px 16px 0px 0px;
+}
+.box {
+  display: flex;
+  -webkit-box-pack: center;
+  justify-content: center;
+  margin-top: 22.9%;
+}
+.boxes {
+  display: flex;
+  align-items: center;
+}
+
+@media screen and (max-width: 767px) {
+  .box .flex {
+    width: 100%;
+    padding-bottom: 24px;
+    padding-top: 24px;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+  }
+  .flex {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    width: 100%;
+  }
+  .flex > li {
+    width: 100%;
+    padding-bottom: 24px;
+    padding-top: 24px;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+  }
+}

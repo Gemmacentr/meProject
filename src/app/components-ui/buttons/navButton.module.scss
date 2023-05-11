@@ -1,0 +1,15 @@
+.btn {
+  border: none;
+  background: none;
+  color: black;
+  @include media-breakpoint-up(md) {
+    height: 48px;
+    justify-content: center;
+  }
+  .btn:hover {
+    color: yellow;
+  }
+  .btn:active {
+    color: green;
+  }
+}

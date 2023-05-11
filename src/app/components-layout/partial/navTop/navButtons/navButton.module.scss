@@ -1,0 +1,18 @@
+.navbar {
+  display: flex;
+  width: 78%;
+  margin: auto;
+}
+.navButton {
+  display: flex;
+  position: relative;
+  align-items: center;
+  min-height: 88px !important;
+  width: 78%;
+}
+
+@media screen and (min-width: 200px) and (max-width: 673px) {
+  .navButton {
+    display: none;
+  }
+}
