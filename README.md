@@ -1,3 +1,17 @@
+Ciao ragazzi!
+
+Principalmente grazie per questa opportunità, mi sono divertita e non toccavo un reale lavoro di front end purtroppo da più di un anno.
+Sfortunatamente i task lavorativi sono stati molti e impegnativi, non sono riuscita dunque a finire il lavoro  né nel tempo che avrei voluto né nel modo.
+E’ imperfetto sotto ogni punto di vista. 
+Non è responsive.
+Insomma, un disastro, ma è tutto ciò che sono riuscita a fare nel mio tempo libero che già scarseggia.
+Alcuni componenti sono stati anche creati, ma faccio davvero fatica a concludere/metterli insieme (vi sto scrivendo questo mentre mangio il mio riso in pausa pranzo, quindi insomma capite bene che non riesco a far di più fino alle 18:00).
+Grazie ancora per l’opportunità.
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
